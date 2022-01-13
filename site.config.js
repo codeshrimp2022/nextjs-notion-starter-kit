@@ -1,15 +1,15 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'Jinyao-Jian-02e54aa147ca4806a4d80d32c81f05a3',
+  rootNotionPageId: 'Jinyao-J-02e54aa147ca4806a4d80d32c81f05a3',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Jinyao Jian',
-  domain: 'https://www.notion.so/Jinyao-Jian-02e54aa147ca4806a4d80d32c81f05a3',
-  author: 'Jinyao Jian',
+  name: 'Jinyao J.',
+  domain: 'https://www.notion.so/Jinyao-J-02e54aa147ca4806a4d80d32c81f05a3',
+  author: 'Jinyao J.',
 
   // open graph metadata (optional)
   description: 'Example site description',
@@ -19,7 +19,7 @@ module.exports = {
   // social usernames (optional)
   twitter: '',
   github: '',
-  linkedin: 'Jinyao Jian',
+  linkedin: 'Jinyao J.',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
